@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Khairnazfa
+- 👋 Hi, I’m @Dr Khairul Afzan Aziz
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning programming using python, R and SQL
-- 💞️ I’m looking to collaborate on developing risk management analyst system for micro, small and medium enterprises
+- 💞️ I’m looking to collaborate on developing risk management analyst system and online advertising performance analyst system for startup, micro, small and medium enterprises
 - 📫 How to reach me just emel me to khairulafzan@gmail.com
 
 <!---
